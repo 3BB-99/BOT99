@@ -2,7 +2,7 @@
 $access_token = 'KQsY26utyWpQWn/vuUjn4MPkmBwg+ukGe0qxghFvILJ2SxNzq71TLdP6nyRRE+7b/7+cnTM6CmlKcAYtvvFv9eNTBnoBSE0yzNBPHTQ7J9uxHO/PHsenUEsVCmbE/8l2uh2oK7SWfiMCMuD1jhnTqQdB04t89/1O/w1cDnyilFU=';
 
 
-$url = 'https://api.line.me/v1/oauth/verify';
+$url = 'https://assama-plains-99.herokuapp.com/verify';
 
 $headers = array('Authorization: Bearer ' . $access_token);
 
